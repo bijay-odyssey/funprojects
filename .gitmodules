@@ -1,0 +1,6 @@
+[submodule "path/to/submodule"]
+	path = path/to/submodule
+	url = https://github.com/bijay-odyssey/cardflip.git
+[submodule "cardflip"]
+	path = cardflip
+	url = https://github.com/bijay-odyssey/cardflip.git
